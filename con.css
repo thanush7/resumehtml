@@ -1,0 +1,21 @@
+.ccc{
+  background-color:#9C9796;
+}
+hr{
+  background-color: blue;
+  height: 3px;
+}
+body{
+  margin-left:37.7px;
+  margin-right: 37.7px;
+  margin-bottom: 37.7cm;
+  margin-top: 37.7px;
+}
+h3{
+  text-decoration: underline;
+}
+.doramon{
+  position: absolute;
+  left:500px;
+  right: 37.7px;
+}
